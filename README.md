@@ -1,10 +1,10 @@
 # Hello there👋, I'm Brooke
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brooke2384&color=blueviolet)
-[![WakaTime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
+
 [![GitHub followers](https://img.shields.io/github/followers/brooke2384?label=Follow&style=social)](https://github.com/brooke2384)
 
-I am a Front-End Web 3 Cybersecurity Developer
+I am a Software Engineer,web 3 enthusiast with cybersecurity focus
 
 ## Connect with me on:
 [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=CodePen)](https://codepen.io/brooke2384))
