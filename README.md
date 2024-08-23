@@ -4,16 +4,14 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/brooke2384?label=Follow&style=social)](https://github.com/brooke2384)
 
-I am a Software Engineer,web 3 enthusiast with cybersecurity focus
+I am a Software Engineer and a Web 3 enthusiast with a strong focus on cybersecurity. I love building innovative solutions and exploring new technologies in the ever-evolving tech landscape.
 
 ## Connect with me on:
-[![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=CodePen)](https://codepen.io/brooke2384))
+[![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=CodePen)](https://codepen.io/brooke2384)
 [![DEV Community](https://img.shields.io/badge/-DEV.to-000?&logo=dev.to)](https://dev.to/brooke2384)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=LinkedIn)](https://linkedin.com/in/your-profile)
-
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/brooke2384)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?&logo=Gmail)](mailto:darlenebridgete4@gmail.com)
-
 
 ## Languages and Tools:
 
@@ -39,3 +37,21 @@ I am a Software Engineer,web 3 enthusiast with cybersecurity focus
 ## Achievements
 <!-- Badges or Achievements section can be added here -->
 [![Badge Name](https://example.com/badge.svg)](https://link_to_your_project_or_profile)
+
+## Notable Projects
+
+### [Portfolio Website](https://github.com/brooke2384/portfolio-website)
+A dynamic portfolio site built with Next.js showcasing my projects, skills, and professional journey. Includes interactive elements and responsive design.
+
+### [Weather Dashboard](https://github.com/brooke2384/weather-dashboard)
+A React and Vite-based weather dashboard providing real-time weather data and forecasts.
+
+### [AI Mental Health App](https://github.com/brooke2384/ai-mental-health-app)
+An AI-driven mental health application featuring user profiles, chat functionalities, and therapy resources.
+
+## Contact Me
+Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/your-profile) or [Email](mailto:darlenebridgete4@gmail.com).
+
+## Current Focus
+I'm currently focusing on learning and improving my skills to further provide better solutions
+
