@@ -50,7 +50,7 @@ A React and Vite-based weather dashboard providing real-time weather data and fo
 An AI-driven mental health application featuring user profiles, chat functionalities, and therapy resources.
 
 ## Contact Me
-Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/your-profile) or [Email](mailto:darlenebridgete4@gmail.com).
+Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/darlene-b-0b8861236) or [Email](mailto:darlenebridgete4@gmail.com).
 
 ## Current Focus
 I'm currently focusing on learning and improving my skills to further provide better solutions
