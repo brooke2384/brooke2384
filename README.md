@@ -9,7 +9,7 @@ I am a Software Engineer and a Web 3 enthusiast with a strong focus on cybersecu
 ## Connect with me on:
 [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=CodePen)](https://codepen.io/brooke2384)
 [![DEV Community](https://img.shields.io/badge/-DEV.to-000?&logo=dev.to)](https://dev.to/brooke2384)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=LinkedIn)](www.linkedin.com/in/darlene-b-0b8861236)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=LinkedIn)](https://www.linkedin.com/in/darlene-b-0b8861236)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/brooke2384)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?&logo=Gmail)](mailto:darlenebridgete4@gmail.com)
 
@@ -50,8 +50,8 @@ A React and Vite-based weather dashboard providing real-time weather data and fo
 An AI-driven mental health application featuring user profiles, chat functionalities, and therapy resources.
 
 ## Contact Me
-Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/darlene-b-0b8861236) or [Email](mailto:darlenebridgete4@gmail.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/darlene-b-0b8861236) or [Email](mailto:darlenebridgete4@gmail.com).
 
 ## Current Focus
-I'm currently focusing on learning and improving my skills to further provide better solutions
+I'm currently focusing on learning and improving my skills to further provide better solutions.
 
