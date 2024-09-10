@@ -40,8 +40,8 @@ I am a Software Engineer and a Web 3 enthusiast with a strong focus on cybersecu
 
 ## Notable Projects
 
-### [Portfolio Website](https://github.com/brooke2384/portfolio-website)
-A dynamic portfolio site built with Next.js showcasing my projects, skills, and professional journey. Includes interactive elements and responsive design.
+### [Portfolio Website](https://darleneportfolio-brooke2384s-projects.vercel.app/)
+A dynamic portfolio site built with HTML,CSS and Javascript showcasing my projects, skills, and professional journey. Includes interactive elements and responsive design.
 
 ### [Weather Dashboard](https://github.com/brooke2384/weather-dashboard)
 A React and Vite-based weather dashboard providing real-time weather data and forecasts.
