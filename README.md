@@ -17,8 +17,10 @@ I am a Software Engineer and a Web 3 enthusiast with a strong focus on cybersecu
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
